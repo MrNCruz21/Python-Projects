@@ -22,7 +22,7 @@ while True:
     (user_choice == 'p' and computer_choice == 'r')): 
         print('You win, congrats!')
     else: 
-        print('Take the L bro.....')
+        print('You lose, sorry.....')
 
     should_continue = input('Keep Playing? (y/n):').lower()
     if should_continue == 'n':
