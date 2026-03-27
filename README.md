@@ -1,2 +1,2 @@
-# Python-Projects
-This is where I'll store all my projects for further practice and learning.
+# Rock-Paper-Scissors Project (Python)
+This contains my rock/paper/scissors user input command-line game. 
